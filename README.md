@@ -1,4 +1,4 @@
-# MySQ - Como modelar um banco de controle de séries assistidas
+# MySQL - Como modelar um banco de controle de séries assistidas
 Repositório criado para a entrega do desafio de projeto: **"MySql - Como modelar um banco de controle de séries assistidas"**, parte integrante do Bootcamp Cognizant Cloud Data Engineer #2, ministrado pela professora [Nathaly Souza](https://github.com/nathyts/) na [Digital Innovation One - DIO](https://www.dio.me/).
 
 ## O projeto
